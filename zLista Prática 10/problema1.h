@@ -1,0 +1,1 @@
+int *cria_vetor_ordenado(char *, int *);
