@@ -1,0 +1,1 @@
+int serie_divergente (int);

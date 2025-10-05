@@ -1,0 +1,1 @@
+void ordena(int *, int);

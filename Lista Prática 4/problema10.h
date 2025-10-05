@@ -1,0 +1,1 @@
+int inverte (int);

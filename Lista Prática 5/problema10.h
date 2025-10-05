@@ -1,0 +1,1 @@
+int soma_acima_diagonal(int [][10], int);

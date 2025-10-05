@@ -1,0 +1,1 @@
+double produto_escalar(double *, double *, int);

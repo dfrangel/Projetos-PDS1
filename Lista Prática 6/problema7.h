@@ -1,0 +1,1 @@
+unsigned int char_count (char *, char);

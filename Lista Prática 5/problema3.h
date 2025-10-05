@@ -1,0 +1,1 @@
+int quantidade_divisiveis (int *, int, int);

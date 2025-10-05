@@ -1,0 +1,1 @@
+double norma(double *, int);

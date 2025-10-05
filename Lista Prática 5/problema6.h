@@ -1,0 +1,1 @@
+int amplitude(int *, int);

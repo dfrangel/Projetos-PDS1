@@ -1,0 +1,1 @@
+void remove_char (char *, char);

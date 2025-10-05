@@ -1,0 +1,1 @@
+int imprime_invertida (char *);

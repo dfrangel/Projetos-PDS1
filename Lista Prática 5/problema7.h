@@ -1,0 +1,1 @@
+int componentes_distintas(int *, int, int *);
