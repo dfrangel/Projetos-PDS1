@@ -1,0 +1,1 @@
+int equacao (int, int, int, double *end_x1, double *end_x2);

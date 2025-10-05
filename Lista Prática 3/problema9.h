@@ -1,0 +1,1 @@
+float media (float, float, float *end_media, char *end_status);

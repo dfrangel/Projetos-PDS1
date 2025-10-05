@@ -1,0 +1,1 @@
+void valida_data (int, int, int, int *end_valida, int *end_bissexto);

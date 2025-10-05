@@ -1,0 +1,1 @@
+void troca (int *end_valor1, int *end_valor2);
