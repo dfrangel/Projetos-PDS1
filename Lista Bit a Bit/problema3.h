@@ -1,0 +1,1 @@
+int verifica_bit (unsigned int, unsigned short);
