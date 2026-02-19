@@ -1,1 +1,0 @@
-int par_ou_impar (unsigned int);
